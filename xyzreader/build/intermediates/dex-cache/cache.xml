@@ -2,81 +2,81 @@
 <items version="2" >
 
     <item
-        jar="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-22.0.0_f1f1e8602ffac9d85e935e22d82d8dfcf2e0a317.jar" />
-    </item>
-    <item
-        jar="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.0.0_b0828a0d958d81a375288f05778bf6af78953f93.jar" />
-    </item>
-    <item
-        jar="/Users/matt/udacity/projects/xyzreader/XYZReader/libs/volley.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
-        <dex dex="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_0ced9fc55968726b8e731ca4ffda34e32b5ee382.jar" />
-    </item>
-    <item
-        jar="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-22.0.0_2b3ac7d838958ad76bd8d0d535b3b2e9b2246ad4.jar" />
-    </item>
-    <item
-        jar="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_2f4f5c5ba1f9588a35d973b93dd79cb664f262a5.jar" />
-    </item>
-    <item
-        jar="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.0.0_e119b28b18af23b76876e1ffa3d624da96cac999.jar" />
-    </item>
-    <item
-        jar="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_378bec1d74000f5804211006eb74a66c1b283ad3.jar" />
-    </item>
-    <item
         jar="/Users/matt/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
-        <dex dex="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0_d62010d721e0c717bc34102d8ef0dad46054847f.jar" />
+        <dex dex="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0_d62010d721e0c717bc34102d8ef0dad46054847f.jar" />
+    </item>
+    <item
+        jar="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_cf1a2e0c4dd7f8a8d8867332c6eafd547700a7b8.jar" />
+    </item>
+    <item
+        jar="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-22.0.0_3841f424fb4262ae67399979b3fb7bb54b69b16c.jar" />
+    </item>
+    <item
+        jar="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_5f0ffec400207c9decd597c7b6304c703bd1827b.jar" />
+    </item>
+    <item
+        jar="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley_e7d207713667668699aea53312fd9baa69cdfcda.jar" />
+    </item>
+    <item
+        jar="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_4d7cfd5f9761480f26f3eb63064f39e296a2f59a.jar" />
+    </item>
+    <item
+        jar="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-22.0.0_8ff5ce743aef1dc5f8e918acf4b1e0fd8c630b4f.jar" />
     </item>
     <item
         jar="/Users/matt/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_7b21a69d38a1153c1d58733214b5bbd2626c9082.jar" />
+        <dex dex="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_7b21a69d38a1153c1d58733214b5bbd2626c9082.jar" />
     </item>
     <item
-        jar="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jar="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_915655cbf073e2c2db07f2c659d9642352200f2a.jar" />
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.0.0_f4643e061d18ad68ea0a41c160cdbcad820489ab.jar" />
     </item>
     <item
-        jar="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jar="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.0.0_f5ffca369d2aa79059599f616f259bb095be627a.jar" />
+    </item>
+    <item
+        jar="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/matt/udacity/projects/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.0.0_0c3c247d9f0dd1aaf9c35dbcfe58d971ff99e6ad.jar" />
+        <dex dex="/Users/matt/udacity/projects/UdacityMaterialDesignApp/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.0.0_2dfef4acaa394e98c7feb4df3c9fa5fe88893a17.jar" />
     </item>
 
 </items>
